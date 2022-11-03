@@ -1,0 +1,14 @@
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\bin\Debug\DetayliSinavAnalizi.exe.config
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\bin\Debug\DetayliSinavAnalizi.exe
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\bin\Debug\DetayliSinavAnalizi.pdb
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.csproj.AssemblyReference.cache
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.Form1.resources
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.Properties.Resources.resources
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.csproj.GenerateResource.cache
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.exe
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.pdb
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.csproj.ResolveComReference.cache
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.exam.resources
+C:\Users\Mr.Phi\Desktop\BitirmeProjesi\DetayliSinavAnalizi\DetayliSinavAnalizi\obj\Debug\DetayliSinavAnalizi.student.resources
